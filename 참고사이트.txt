@@ -1,0 +1,23 @@
+https://github.com/pender/chatbot-rnn
+(여기 다운받아서 할거많음 rnn) 해볼만은함
+
+https://github.com/ricsinaruto/Seq2seqChatbots
+대화 코퍼스 이거 해볼만함(데이터셋여기다있음)
+
+https://github.com/deepseasw/seq2seq_chatbot  @@ 한글로되있는거 이거 보고 연습해보기
+(케라스로 만드는 챗봇 이거기반으로 만듬 191008!!!!!!!!!!!!!)
+
+
+ijcnlp_dailydialo(?)
+https://github.com/jfainberg/self_dialogue_corpus/blob/master/corpus/harry_potter/Batch_2840961_batch_results.csv
+(데이터셋 여기도 쓸만해보임
+
+
+https://github.com/jogonba2/Seq2SeqChatBot
+(괜찮아보임)
+
+http://aidev.co.kr/chatbotdeeplearning/1852
+https://github.com/golbin/TensorFlow-Tutorials/tree/master/10%20-%20RNN/ChatBot(한글)
+https://github.com/tensorlayer/seq2seq-chatbot(참고)
+
+=============================================
